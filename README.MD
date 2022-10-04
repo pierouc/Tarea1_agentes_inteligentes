@@ -14,7 +14,9 @@ Las funciones que se ven como en la imagen, se dejan comentadas para evidenciar 
 
 ![img 1](./1.png?raw=true "Optional Title")
 
-Finalmente se decide dejar de lado la idea de hacer la simulacion tan precisa y se opta por hacer una suma del tablero, la cual se balanceara con la heuristica de 
+Finalmente se decide dejar de lado la idea de hacer la simulacion tan precisa y se opta por hacer una suma del tablero, la cual se balanceara con la heuristica realizada y nos permitira que nuestro minimax funcione.
+
+Ademas Se compara con una version de un Monte Carlo Tree Search *ENCONTRADO EN INTERNET*, la cual esta hecho con TKinter, lo cual deberia afectar un minimo en el tiempo pero no demasiado para efectos de calculo de tiempo
 
 
-En el siguiente [video demostrativo](https://www.youtube.com/watch?v=MMLtza3CZFM&t=4515s) podemos ver el funcionamiento del programa
+En el siguiente [video demostrativo]() podemos ver el funcionamiento del programa y la comparativa con MCTS
