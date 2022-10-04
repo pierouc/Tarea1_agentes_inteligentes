@@ -1,3 +1,5 @@
+# Piero Oporto 201730006-K
+
 ## 1. Introducción
 Mediante el uso de agentes adversarios autonomos se puede lograr un contrincante en un ambiente totalmente estático para diferentes juegos clasicos como "El Gato", Ajedrez, o como en este caso, Connect 4
 
