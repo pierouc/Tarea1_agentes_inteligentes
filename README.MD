@@ -7,6 +7,8 @@ Se busca crear un agente adversario a partir del algoritmo minimax con alpha-bet
 ## 3. Metodología
 Se encuentra el ambiente y se arregla y modifica un poco para poder aplicar el agente. Luego de que el ambiente corre, se opta por utilizar alpha-beta prunning, Con esto listo se comienza a buscar crear una heuristica para el juego sumando un puntaje diferente para cada linea de 2, 3 o 4 realizada por el agente pero no penalizando al jugador contrario en una primera instancia. Se ven temas como las lineas que son tapadas por el adversario o si es que es posible hacer una diagonal debido a si existe una ficha directamente abajo para lograr dicha diagonal ademas no se tomaba en cuenta el pasado del tablero sino que solo lo que venia a futuro. 
 
+Las funciones que se ven como en la imagen, se dejan comentadas para evidenciar el trabajdo logrado a lo largo del codigo y las partes desechadas o de uso de pruebas
+
 ![img 1](./1.png?raw=true "Optional Title")
 
 Luego de implmentar este tipo de heuristica con el algoritmo minimax no se logra llegar a una solucion concreta, debido a que el agente funciona de manera erratica.
