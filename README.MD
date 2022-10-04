@@ -21,4 +21,4 @@ Finalmente se decide dejar de lado la idea de hacer la simulacion tan precisa y 
 Ademas Se compara con una version de un Monte Carlo Tree Search *ENCONTRADO EN INTERNET*, la cual esta hecho con TKinter, lo cual deberia afectar un minimo en el tiempo pero no demasiado para efectos de calculo de tiempo
 
 
-En el siguiente [video demostrativo]() podemos ver el funcionamiento del programa y la comparativa con MCTS
+En el siguiente [video demostrativo](https://youtu.be/CvAwEQO9fhw) podemos ver el funcionamiento del programa y la comparativa con MCTS
